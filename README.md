@@ -1,2 +1,2 @@
 # react-animation
-react-transition-group
+use react-transition-group
